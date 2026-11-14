@@ -1,0 +1,5 @@
+Format,Average Write Time (s),Min Write Time (s),Max Write Time (s),File Size (MB)
+CSV,2.7313,1.3862,3.7268,28.8
+Parquet Uncompressed,0.2427,0.1567,0.535,12.54
+Parquet Snappy,0.1715,0.1582,0.1828,10.03
+Parquet ZSTD,0.1813,0.1729,0.1899,8.32

@@ -1,0 +1,5 @@
+Format,Average Read Time (s),Min Read Time (s),Max Read Time (s)
+CSV,0.0769,0.0445,0.1628
+Parquet Uncompressed,0.4943,0.0244,2.3585
+Parquet Snappy,0.0296,0.0241,0.0371
+Parquet ZSTD,0.0294,0.0231,0.0351

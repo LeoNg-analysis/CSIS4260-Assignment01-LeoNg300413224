@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda and virtual environments
+.venv/
+venv/
+.env/
+
+# Temporary benchmark data
+part1_storage/benchmark_output/
+part1_storage/scalability_temp/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
